@@ -1,0 +1,119 @@
+2015-07-14 17:41:42,741 INFO  [Log] ******************************************************************************* 
+2015-07-14 17:41:42,741 INFO  [Log] *************************** LG_01 ******************************* 
+2015-07-14 17:41:42,741 INFO  [Log] ******************************************************************************* 
+2015-07-14 17:41:42,741 INFO  [Log] ******************************************************************************* 
+2015-07-14 17:41:42,741 ERROR [Log] Package utility || class Exceldata || Method setpath C:\Users\824671\workspace\Zetta_test\git\repository\src\testdata\Exceldata.xlsx (The system cannot find the path specified) 
+2015-07-14 17:41:42,757 ERROR [Log] Package utility || class Exceldata || Method getRowContains null 
+2015-07-14 17:41:42,757 ERROR [Log] Package utility || Class Utills || Method before Testnull 
+2015-07-14 17:41:42,914 INFO  [Log] ******************************************************************************* 
+2015-07-14 17:41:42,914 INFO  [Log] *************************** LG_02 ******************************* 
+2015-07-14 17:41:42,914 INFO  [Log] ******************************************************************************* 
+2015-07-14 17:41:42,914 INFO  [Log] ******************************************************************************* 
+2015-07-14 17:41:42,914 ERROR [Log] Package utility || class Exceldata || Method setpath C:\Users\824671\workspace\Zetta_test\git\repository\src\testdata\Exceldata.xlsx (The system cannot find the path specified) 
+2015-07-14 17:41:42,914 ERROR [Log] Package utility || class Exceldata || Method getRowContains null 
+2015-07-14 17:41:42,914 ERROR [Log] Package utility || Class Utills || Method before Testnull 
+2015-07-14 17:47:40,548 INFO  [Log] ******************************************************************************* 
+2015-07-14 17:47:40,548 INFO  [Log] *************************** LG_01 ******************************* 
+2015-07-14 17:47:40,548 INFO  [Log] ******************************************************************************* 
+2015-07-14 17:47:40,548 INFO  [Log] ******************************************************************************* 
+2015-07-14 17:48:20,220 INFO  [Log] 233531 Entered in Usernamre Field 
+2015-07-14 17:48:20,578 INFO  [Log] Daksh123 Entered in Password Field 
+2015-07-14 17:48:20,734 INFO  [Log] Login Button Clicked 
+2015-07-14 17:48:20,781 WARN  [Log] package testcases.testcases_Login|| Class LG_01 ||Method mainUnable to locate element: {"method":"xpath","selector":".//*[@id='navbar-container']/div[2]/ul/li[2]/a/span/b"}
+Command duration or timeout: 16 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'inf-sdt-256', ip: '10.129.34.58', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+*** Element info: {Using=xpath, value=.//*[@id='navbar-container']/div[2]/ul/li[2]/a/span/b}
+Session ID: b9f173a7-9ce7-4fa8-9205-afb488787b7a
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=17.0.5}] 
+2015-07-14 17:48:20,797 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+2015-07-14 17:48:20,797 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXX   End Test Case      XXXXXXXXXXXXXXXXXXXXXXXXXXX 
+2015-07-14 17:48:20,797 INFO  [Log] X 
+2015-07-14 17:48:20,797 INFO  [Log] X 
+2015-07-14 17:48:20,797 INFO  [Log] X 
+2015-07-14 17:48:20,797 INFO  [Log] X 
+2015-07-14 17:48:20,906 INFO  [Log] ******************************************************************************* 
+2015-07-14 17:48:20,906 INFO  [Log] *************************** LG_02 ******************************* 
+2015-07-14 17:48:20,906 INFO  [Log] ******************************************************************************* 
+2015-07-14 17:48:20,906 INFO  [Log] ******************************************************************************* 
+2015-07-14 17:48:38,520 INFO  [Log] 796419 Entered in Usernamre Field 
+2015-07-14 17:48:38,567 INFO  [Log] Daksh@123  Entered in Password Field 
+2015-07-14 17:48:38,754 INFO  [Log] Login Button Clicked 
+2015-07-14 17:48:38,754 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+2015-07-14 17:48:38,754 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXX   End Test Case      XXXXXXXXXXXXXXXXXXXXXXXXXXX 
+2015-07-14 17:48:38,754 INFO  [Log] X 
+2015-07-14 17:48:38,754 INFO  [Log] X 
+2015-07-14 17:48:38,754 INFO  [Log] X 
+2015-07-14 17:48:38,754 INFO  [Log] X 
+2015-07-14 18:48:11,197 INFO  [Log] ******************************************************************************* 
+2015-07-14 18:48:11,197 INFO  [Log] *************************** LG_01 ******************************* 
+2015-07-14 18:48:11,197 INFO  [Log] ******************************************************************************* 
+2015-07-14 18:48:11,197 INFO  [Log] ******************************************************************************* 
+2015-07-14 18:48:34,770 INFO  [Log] 233531 Entered in Usernamre Field 
+2015-07-14 18:48:34,848 INFO  [Log] Daksh123 Entered in Password Field 
+2015-07-14 18:48:35,020 INFO  [Log] Login Button Clicked 
+2015-07-14 18:48:35,082 WARN  [Log] package testcases.testcases_Login|| Class LG_01 ||Method mainUnable to locate element: {"method":"xpath","selector":".//*[@id='navbar-container']/div[2]/ul/li[2]/a/span/b"}
+Command duration or timeout: 47 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'inf-sdt-256', ip: '10.129.34.58', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+*** Element info: {Using=xpath, value=.//*[@id='navbar-container']/div[2]/ul/li[2]/a/span/b}
+Session ID: 6cf94d58-3280-480c-be73-d6bd3bde87b7
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=17.0.5}] 
+2015-07-14 18:48:35,113 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+2015-07-14 18:48:35,113 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXX   End Test Case      XXXXXXXXXXXXXXXXXXXXXXXXXXX 
+2015-07-14 18:48:35,113 INFO  [Log] X 
+2015-07-14 18:48:35,113 INFO  [Log] X 
+2015-07-14 18:48:35,113 INFO  [Log] X 
+2015-07-14 18:48:35,113 INFO  [Log] X 
+2015-07-14 18:48:35,987 INFO  [Log] ******************************************************************************* 
+2015-07-14 18:48:35,987 INFO  [Log] *************************** LG_02 ******************************* 
+2015-07-14 18:48:35,987 INFO  [Log] ******************************************************************************* 
+2015-07-14 18:48:35,987 INFO  [Log] ******************************************************************************* 
+2015-07-14 18:48:48,734 INFO  [Log] 796419 Entered in Usernamre Field 
+2015-07-14 18:48:48,797 INFO  [Log] Daksh@123  Entered in Password Field 
+2015-07-14 18:48:48,953 INFO  [Log] Login Button Clicked 
+2015-07-14 18:48:48,953 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+2015-07-14 18:48:48,953 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXX   End Test Case      XXXXXXXXXXXXXXXXXXXXXXXXXXX 
+2015-07-14 18:48:48,953 INFO  [Log] X 
+2015-07-14 18:48:48,953 INFO  [Log] X 
+2015-07-14 18:48:48,953 INFO  [Log] X 
+2015-07-14 18:48:48,953 INFO  [Log] X 
+2015-07-14 18:54:34,970 INFO  [Log] ******************************************************************************* 
+2015-07-14 18:54:34,970 INFO  [Log] *************************** LG_01 ******************************* 
+2015-07-14 18:54:34,970 INFO  [Log] ******************************************************************************* 
+2015-07-14 18:54:34,970 INFO  [Log] ******************************************************************************* 
+2015-07-14 18:54:48,995 INFO  [Log] 233531 Entered in Usernamre Field 
+2015-07-14 18:54:49,042 INFO  [Log] Daksh123 Entered in Password Field 
+2015-07-14 18:54:49,229 INFO  [Log] Login Button Clicked 
+2015-07-14 18:54:49,260 WARN  [Log] package testcases.testcases_Login|| Class LG_01 ||Method mainUnable to locate element: {"method":"xpath","selector":".//*[@id='navbar-container']/div[2]/ul/li[2]/a/span/b"}
+Command duration or timeout: 16 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'inf-sdt-256', ip: '10.129.34.58', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+*** Element info: {Using=xpath, value=.//*[@id='navbar-container']/div[2]/ul/li[2]/a/span/b}
+Session ID: 787d32fd-045a-4514-a57f-864ad627fcee
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=17.0.5}] 
+2015-07-14 18:54:49,276 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+2015-07-14 18:54:49,276 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXX   End Test Case      XXXXXXXXXXXXXXXXXXXXXXXXXXX 
+2015-07-14 18:54:49,276 INFO  [Log] X 
+2015-07-14 18:54:49,276 INFO  [Log] X 
+2015-07-14 18:54:49,276 INFO  [Log] X 
+2015-07-14 18:54:49,276 INFO  [Log] X 
+2015-07-14 18:54:49,323 INFO  [Log] ******************************************************************************* 
+2015-07-14 18:54:49,323 INFO  [Log] *************************** LG_02 ******************************* 
+2015-07-14 18:54:49,323 INFO  [Log] ******************************************************************************* 
+2015-07-14 18:54:49,323 INFO  [Log] ******************************************************************************* 
+2015-07-14 18:55:02,085 INFO  [Log] 796419 Entered in Usernamre Field 
+2015-07-14 18:55:02,132 INFO  [Log] Daksh@123  Entered in Password Field 
+2015-07-14 18:55:02,382 INFO  [Log] Login Button Clicked 
+2015-07-14 18:55:02,382 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+2015-07-14 18:55:02,382 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXX   End Test Case      XXXXXXXXXXXXXXXXXXXXXXXXXXX 
+2015-07-14 18:55:02,382 INFO  [Log] X 
+2015-07-14 18:55:02,382 INFO  [Log] X 
+2015-07-14 18:55:02,382 INFO  [Log] X 
+2015-07-14 18:55:02,382 INFO  [Log] X 
